@@ -4,4 +4,4 @@ Demo website for a fictional saree shop in Varanasi. Shop by colour cards, a han
 
 Live: https://mohammadgulab.github.io/demo-saree/
 
-Design and code by Mohammad Gulab. Photos from Wikimedia Commons, credited in the page footer.
+Design and code by Mohammad Gulab. Photos from Pexels (free to use under the Pexels licence), linked in the page footer.
